@@ -1,0 +1,10 @@
+{
+"namespace": "com.example.demo.avro",
+"type": "record",
+"name": "UserInfo",
+"fields": [
+{"name": "username","type":"string"},
+{"name": "firstName","type":"string"},
+{"name": "lastName","type":"string"}
+]
+}
